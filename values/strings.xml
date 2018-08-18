@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Hope</string>
-    <string name="google_geo_api_key" translatable="false">AIzaSyAwEbSM4NXqawtH4hNj7IpP8c9uaqDrFAU</string>
+    <string name="google_geo_api_key" translatable="false">xxx</string>
     <string name="facebook_app_id" translatable="false">553948804980618</string>
 
     <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
