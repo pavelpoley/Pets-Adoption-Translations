@@ -1,0 +1,76 @@
+<resources>
+   
+
+    <string name="action_settings">Einstellungen</string>
+    <string name="km">&#160;km</string>
+    <string name="detecting_location">Ermittle Standort...\nBitte aktiviere Standort</string>
+    <string name="post"Post</string>
+    <string name="pet_details">Haustier-Details</string>
+    <string name="name">Name</string>
+    <string name="description">Beschreibung</string>
+    <string name="sterilized">Sterilisiert</string>
+    <string name="address">Addresse</string>
+    <string name="breed">Rasse</string>
+    <string name="address_street_number" translatable="false">Address street number</string>
+    <string name="contact_name">Kontakt-Name</string>
+    <string name="sex">Geschlecht</string>
+    <string name="about_me">Über mich</string>
+    <string name="nearby_pets">Haustiere in der Nähe</string>
+    <string name="phone">Telefon</string>
+    <string name="verify_number">Nummer verifizieren</string>
+    <string name="code">Code</string>
+    <string name="activate">Aktivieren</string>
+    <string name="phone_verification">Telefon-Verifizierung</string>
+    <string name="country_code_number">+(Ländercode) (Nummer)</string>
+    <string name="my_profile">Mein Profil</string>
+    <string name="save">Speichern</string>
+    <string name="my_pets">Meine Haustiere</string>
+    <string name="mark_as_adopted">Als adoptiert kennzeichnen</string>
+    <string name="delete">Löschen</string>
+    <string name="adopted">Adoptiert</string>
+    <string name="form_not_completed">Formular unvollständig</string>
+    <string name="address_required">Addresse erforderlich</string>
+    <string name="image_required">Bild erforderlich</string>
+    <string name="select_picture">Wähle Bild aus</string>
+    <string name="thank_you">Danke!</string>
+    <string name="error_while_uploading_images">Fehler beim Hochladen der Bilder</string>
+    <string name="connecting">Verbinden...</string>
+    <string name="short_phone_number">Kurze Telefonnummer</string>
+    <string name="verification_error">Verifizierungsfehler</string>
+    <string name="code_sent">Code gesendet</string>
+    <string name="invalid_code">Code ungültig</string>
+    <string name="saved">Gespeichert</string>
+    <string name="delete_this_ad">Diese Werbung löschen?</string>
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+    <string name="mark_this_pet_as_adopted">Dieses Haustier als adoptiert kennzeichnen?</string>
+    <string name="dog">Hund</string>
+    <string name="cat">Katze</string>
+    <string name="bird">Vogel</string>
+    <string name="fish">Fisch</string>
+    <string name="other">Sonstiges</string>
+    <string name="male">Männlich</string>
+    <string name="female">Weiblich</string>
+    <string name="unknown">Unbekannt</string>
+    <string name="successfully_logged_in">Erfolgreich angemeldet</string>
+    <string name="please_sign_in_first">Bitte melde dich zuerst an</string>
+    <string name="successfully_signed_out">Erfolgreich abgemeldet</string>
+    <string name="sign_in">Anmelden</string>
+    <string name="sign_out">Abmelden</string>
+    <string name="add_pet">Haustier hinzufügen</string>
+    <string name="profile">Profil</string>
+    <string name="communicate">Kommunizieren</string>
+    <string name="share">Teilen</string>
+    <string name="rate">Bewerten</string>
+    <string name="no_pets_around_you">Keine Haustiere in deiner Nähe</string>
+    <string name="contact_us">Feedback</string>
+    <string name="show_all_pets">Zeige alle Haustiere</string>
+    <string name="adopted_menu">Adoptiert</string>
+    <string name="show_all">Zeige alle</string>
+    <string name="translate_this_app">Übersetze diese App</string>
+    <string name="new_">Neu</string>
+    <string name="notifications">Benachrichtigungen</string>
+    <string name="nothing_found">Nichts gefunden</string>
+
+
+</resources>
