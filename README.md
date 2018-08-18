@@ -18,6 +18,7 @@ Existing languages:
 + Italian - [baldapps](https://github.com/baldapps)
 
 I will create about page with translators names.
+Contact me on skype (pavelpoley88) i will ask your name and photo to add to app about page.
 
 Feel free to contribute.
 
