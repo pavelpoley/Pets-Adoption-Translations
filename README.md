@@ -17,6 +17,7 @@ Existing languages:
 + Russian
 + Italian - [baldapps](https://github.com/baldapps)
 + German - [FriederZi](https://github.com/FriederZi)
++ portuguese - [krllus](https://github.com/krllus)
 
 Big thanks to contributors!
 
