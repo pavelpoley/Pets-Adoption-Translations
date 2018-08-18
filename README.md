@@ -15,6 +15,7 @@ https://play.google.com/store/apps/details?id=ppapps.petsapp
 Existing languages:
 + English
 + Russian
++ Italian - [baldapps](https://github.com/baldapps)
 
 I will create about page with translators names.
 
