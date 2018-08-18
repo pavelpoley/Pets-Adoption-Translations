@@ -16,7 +16,7 @@ Existing languages:
 + English
 + Russian
 
-I will create about page with tranlators names.
+I will create about page with translators names.
 
 Feel free to contribute.
 
