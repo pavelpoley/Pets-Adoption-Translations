@@ -9,7 +9,7 @@ https://play.google.com/store/apps/details?id=ppapps.petsapp
 + Clone the project, create new values folder with translated language extension for example folder name values-ru (for Russian).<br/>
 + Copy words from default folder - values\strings.xml<br />
 + Translate the words and put the xml file into the new folder.<br />
-+ Push to repository.<br /><br />
++ Send pull request.<br /><br />
 
 
 Existing languages:
@@ -17,8 +17,10 @@ Existing languages:
 + Russian
 + Italian - [baldapps](https://github.com/baldapps)
 
-I will create about page with translators names.
-Contact me on skype (pavelpoley88) i will ask your name and photo to add to app about page.
+Big thanks to contributors!
+
+I will create about page with translators names.<br />
+Contact me on skype (pavelpoley88) i will ask your agreement to add your name and photo to app translators section.
 
 Feel free to contribute.
 
