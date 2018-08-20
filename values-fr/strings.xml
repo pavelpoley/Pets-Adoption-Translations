@@ -35,7 +35,7 @@
     <string name="thank_you">Merci!</string>
     <string name="error_while_uploading_images">Erreur lors de l\'envoi des images</string>
     <string name="connecting">Connexion...</string>
-    <string name="short_phone_number">Numéro de téléphone court</string>
+    <string name="short_phone_numbe r">Le numéro de téléphone est trop court</string>
     <string name="verification_error">Erreur de vérification</string>
     <string name="code_sent">Code envoyé</string>
     <string name="invalid_code">Code invalide</string>
