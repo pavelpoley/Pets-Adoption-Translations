@@ -19,6 +19,7 @@ Existing languages:
 + German - [FriederZi](https://github.com/FriederZi)
 + portuguese - [krllus](https://github.com/krllus)
 + Malay - [chantw](https://github.com/chantw)
++ French - [liltof](https://github.com/liltof)
 
 Big thanks to contributors!
 
