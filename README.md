@@ -18,6 +18,7 @@ Existing languages:
 + Italian - [baldapps](https://github.com/baldapps)
 + German - [FriederZi](https://github.com/FriederZi)
 + portuguese - [krllus](https://github.com/krllus)
++ Malay - [chantw](https://github.com/chantw)
 
 Big thanks to contributors!
 
