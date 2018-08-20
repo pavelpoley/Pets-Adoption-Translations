@@ -1,0 +1,76 @@
+<resources>
+   
+
+    <string name="action_settings">Tetapan</string>
+    <string name="km">&#160;km</string>
+    <string name="detecting_location">Mengesan lokasi...\nSila hidupkan lokasi</string>
+    <string name="post">Terbitkan</string>
+    <string name="pet_details">Maklumat haiwan peliharaan</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="sterilized">Disterilkan</string>
+    <string name="address">Alamat</string>
+    <string name="breed">Baka</string>
+    <string name="address_street_number" translatable="false">Nombor alamat jalan</string>
+    <string name="contact_name">Nama kenalan</string>
+    <string name="sex">Jantina</string>
+    <string name="about_me">Mengenai saya</string>
+    <string name="nearby_pets">Haiwan Peliharaan Berdekatan</string>
+    <string name="phone">Telefon</string>
+    <string name="verify_number">Sahkan nombor</string>
+    <string name="code">Kod</string>
+    <string name="activate">Aktifkan</string>
+    <string name="phone_verification">Pengesahan telefon</string>
+    <string name="country_code_number">+(kod negara) (nombor)</string>
+    <string name="my_profile">Profil saya</string>
+    <string name="save">Simpan</string>
+    <string name="my_pets">Haiwan Peliharaan Saya</string>
+    <string name="mark_as_adopted">Tanda sebagai diangkat</string>
+    <string name="delete">Buang</string>
+    <string name="adopted">Diangkat</string>
+    <string name="form_not_completed">Borang tak lengkap</string>
+    <string name="address_required">Alamat diperlukan</string>
+    <string name="image_required">Gambar diperlukan</string>
+    <string name="select_picture">Pilih Gambar</string>
+    <string name="thank_you">Terima kasih!</string>
+    <string name="error_while_uploading_images">Masalah semasa memuatnaik gambar-gambar</string>
+    <string name="connecting">Menyambung...</string>
+    <string name="short_phone_number">No telefon pendek</string>
+    <string name="verification_error">Masalah pengesahan</string>
+    <string name="code_sent">Kod dihantar</string>
+    <string name="invalid_code">Kod salah</string>
+    <string name="saved">Disimpan</string>
+    <string name="delete_this_ad">Buang iklan?</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="mark_this_pet_as_adopted">Tanda haiwan peliharaan sebagai diangkat?</string>
+    <string name="dog">Anjing</string>
+    <string name="cat">Kucing</string>
+    <string name="bird">Burung</string>
+    <string name="fish">Ikan</string>
+    <string name="other">Lain-lain</string>
+    <string name="male">Jantan</string>
+    <string name="female">Betina</string>
+    <string name="unknown">Tak diketahui</string>
+    <string name="successfully_logged_in">Log masuk berjaya</string>
+    <string name="please_sign_in_first">Sila Log Masuk Dahulu</string>
+    <string name="successfully_signed_out">Log keluar berjaya</string>
+    <string name="sign_in">Log Masuk</string>
+    <string name="sign_out">Log keluar</string>
+    <string name="add_pet">Tambah peliharaan</string>
+    <string name="profile">Profil</string>
+    <string name="communicate">Komunikasi</string>
+    <string name="share">Kongsi</string>
+    <string name="rate">Kadar</string>
+    <string name="no_pets_around_you">Tiada haiwan peliharaan di sekitar anda</string>
+    <string name="contact_us">Maklum balas</string>
+    <string name="show_all_pets">Papar semua peliharaan</string>
+    <string name="adopted_menu">Diangkat</string>
+    <string name="show_all">Papar Semua</string>
+    <string name="translate_this_app">Terjemah Aplikasi</string>
+    <string name="new_">Baru</string>
+    <string name="notifications">Notifikasi</string>
+    <string name="nothing_found">Tak Dijumpai</string>
+
+
+</resources>
