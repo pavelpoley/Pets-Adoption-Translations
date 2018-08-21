@@ -2,8 +2,7 @@
    
 
     <string name="action_settings">सेटिंग्स</string>
-    <string name="km">&#160;किलो मीटर
-</string>
+    <string name="km">&#160;किलो मीटर</string>
     <string name="detecting_location">स्थान शोधत आहे...\nकृपया स्थान चालू करा</string>
     <string name="post">पोस्ट</string>
     <string name="pet_details">पाळीव प्राण्यांचे तपशील</string>
