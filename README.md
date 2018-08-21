@@ -21,6 +21,7 @@ Existing languages:
 + Malay - [chantw](https://github.com/chantw)
 + French - [liltof](https://github.com/liltof)
 + Serbian Latin - [milansamardzic](https://github.com/milansamardzic)
++ Marathi - [atharvaunde59](https://github.com/atharvaunde59)
 
 Big thanks to contributors!
 
