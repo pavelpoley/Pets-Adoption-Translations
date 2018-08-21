@@ -1,0 +1,76 @@
+<resources>
+
+
+    <string name="action_settings">Podešavanja</string>
+    <string name="km">&#160;km</string>
+    <string name="detecting_location">Lociranje...\nMolim vas omogucite lociranje</string>
+    <string name="post">Post</string>
+    <string name="pet_details">Detalji o ljubimcu</string>
+    <string name="name">Ime</string>
+    <string name="description">Opis</string>
+    <string name="sterilized">Sterilizovan</string>
+    <string name="address">Adresa</string>
+    <string name="breed">Rasa</string>
+    <string name="address_street_number" translatable="false">Adresa ulica broj</string>
+    <string name="contact_name">Kontakt ime</string>
+    <string name="sex">Pol</string>
+    <string name="about_me">O meni</string>
+    <string name="nearby_pets">Ljubimci u okolini</string>
+    <string name="phone">Telefon</string>
+    <string name="verify_number">Potvrdi telefon</string>
+    <string name="code">Kod</string>
+    <string name="activate">Aktiviraj</string>
+    <string name="phone_verification">Verifikacija telefona</string>
+    <string name="country_code_number">+(kod države) (broj)</string>
+    <string name="my_profile">Moj profil</string>
+    <string name="save">Sačuvaj</string>
+    <string name="my_pets">Moji ljubimci</string>
+    <string name="mark_as_adopted">Označi kao usvojen</string>
+    <string name="delete">Obriši</string>
+    <string name="adopted">Usvojen</string>
+    <string name="form_not_completed">Forma nije popunjena</string>
+    <string name="address_required">Adresa potrebna</string>
+    <string name="image_required">Fotografija potrebna</string>
+    <string name="select_picture">Izaberi fotografiju</string>
+    <string name="thank_you">Hvala!</string>
+    <string name="error_while_uploading_images">Greška prilikom slanja slike</string>
+    <string name="connecting">Poveivanje...</string>
+    <string name="short_phone_number">Telefonski broj je kratak</string>
+    <string name="verification_error">VVerifikacijska greška</string>
+    <string name="code_sent">Kod poslan</string>
+    <string name="invalid_code">Neispravan kod</string>
+    <string name="saved">Saved</string>
+    <string name="delete_this_ad">Delete this ad?</string>
+    <string name="no">Ne</string>
+    <string name="yes">Da</string>
+    <string name="mark_this_pet_as_adopted">Označi ovog ljubimca kao usvojenog?</string>
+    <string name="dog">Pas</string>
+    <string name="cat">Mačka</string>
+    <string name="bird">Ptica</string>
+    <string name="fish">Riba</string>
+    <string name="other">Drugo</string>
+    <string name="male">Muško</string>
+    <string name="female">Žensko</string>
+    <string name="unknown">Nepoznato</string>
+    <string name="successfully_logged_in">Uspješno prijavljen</string>
+    <string name="please_sign_in_first">Prvo se prijavite</string>
+    <string name="successfully_signed_out">Uspješno odjavljen</string>
+    <string name="sign_in">Prijava</string>
+    <string name="sign_out">Odjava</string>
+    <string name="add_pet">Dodaj ljubimca</string>
+    <string name="profile">Profil</string>
+    <string name="communicate">Kontaktirajte</string>
+    <string name="share">Podijeli</string>
+    <string name="rate">Ocijeni</string>
+    <string name="no_pets_around_you">Nema ljubimaca u vašoj blizini</string>
+    <string name="contact_us">Povratna informacija</string>
+    <string name="show_all_pets">Prikaži sve ljubimce</string>
+    <string name="adopted_menu">Usvojeni</string>
+    <string name="show_all">Prikaži sve</string>
+    <string name="translate_this_app">Prevedi ovu aplikaciju</string>
+    <string name="new_">Novo</string>
+    <string name="notifications">Obavještenja</string>
+    <string name="nothing_found">Ništa nije pronađeno</string>
+
+
+</resources>
