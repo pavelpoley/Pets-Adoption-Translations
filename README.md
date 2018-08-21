@@ -20,6 +20,7 @@ Existing languages:
 + portuguese - [krllus](https://github.com/krllus)
 + Malay - [chantw](https://github.com/chantw)
 + French - [liltof](https://github.com/liltof)
++ Serbian Latin - [milansamardzic](https://github.com/milansamardzic)
 
 Big thanks to contributors!
 
