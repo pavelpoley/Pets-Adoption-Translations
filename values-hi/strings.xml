@@ -35,8 +35,7 @@
     <string name="thank_you">धन्यवाद!</string>
     <string name="error_while_uploading_images">छवियों को अपलोड करते समय त्रुटि</string>
     <string name="connecting">कनेक्ट कर रहा है...</string>
-    <string name="short_phone_number">फोन नंबर बहुत छोटा है
-</string>
+    <string name="short_phone_number">फोन नंबर बहुत छोटा है</string>
     <string name="verification_error">सत्यापन त्रुटि</string>
     <string name="code_sent">कोड भेज दिया गया</string>
     <string name="invalid_code">अमान्य कोड</string>
