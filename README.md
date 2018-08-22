@@ -22,6 +22,7 @@ Existing languages:
 + French - [liltof](https://github.com/liltof)
 + Serbian Latin - [milansamardzic](https://github.com/milansamardzic)
 + Marathi - [atharvaunde59](https://github.com/atharvaunde59)
++ Hindi - [atharvaunde59](https://github.com/atharvaunde59)
 
 Big thanks to contributors!
 
