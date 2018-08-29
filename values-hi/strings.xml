@@ -45,8 +45,8 @@
     <string name="yes">हाँ</string>
     <string name="mark_this_pet_as_adopted">इस पालतू जानवर को अपनाया गया है?</string>
     <string name="dog">कुत्ता</string>
-    <string name="cat">Cat</string>
-    <string name="bird">बिल्ली</string>
+    <string name="cat">बिल्ली</string>
+    <string name="bird">पंछी</string>
     <string name="fish">मछली</string>
     <string name="other">अन्य</string>
     <string name="male">नर</string>
