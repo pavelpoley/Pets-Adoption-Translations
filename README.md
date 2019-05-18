@@ -5,6 +5,9 @@ Looking for people who want to translate pets adoption app (Android app).
 App link:
 https://play.google.com/store/apps/details?id=ppapps.petsapp
 
+Web link
+https://www.petsadoption.app
+
 ### Contribute
 + Clone the project, create new values folder with translated language extension for example folder name values-ru (for Russian).<br/>
 + Copy words from default folder - values\strings.xml<br />
