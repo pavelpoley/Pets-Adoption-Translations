@@ -8,7 +8,7 @@
     <string name="pet_details">पालतू  प्राणी के  विवरण</string>
     <string name="name">नाम</string>
     <string name="description">विवरण</string>
-    <string name="sterilized">Sterilized</string>
+    <string name="sterilized">निष्फल</string>
     <string name="address">पता</string>
     <string name="breed">नस्ल</string>
     <string name="address_street_number" translatable="false">पता -  गली नंबर</string>
@@ -50,7 +50,7 @@
     <string name="fish">मछली</string>
     <string name="other">अन्य</string>
     <string name="male">नर</string>
-    <string name="female">महिला</string>
+    <string name="female">मादा</string>
     <string name="unknown">अनजान</string>
     <string name="successfully_logged_in">सफलतापूर्वक लॉग इन</string>
     <string name="please_sign_in_first">कृपया पहले साइन इन करें</string>
@@ -63,7 +63,7 @@
     <string name="share">शेयर</string>
     <string name="rate">मूल्यांकन </string>
     <string name="no_pets_around_you">तुम्हारे चारों ओर पालतू जानवर नहीं</string>
-    <string name="contact_us">प्रतिक्रिया</string>
+    <string name="contact_us">सम्पूर्ण माध्यम्</string>
     <string name="show_all_pets">सभी पालतू जानवर दिखाओ</string>
     <string name="adopted_menu">गोद लिया</string>
     <string name="show_all">सब दिखाओ</string>
