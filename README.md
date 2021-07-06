@@ -2,8 +2,11 @@
 
 Looking for people who want to translate pets adoption app (Android app).
 
-App link:
+Android:
 https://play.google.com/store/apps/details?id=ppapps.petsapp
+
+iOS:
+https://apps.apple.com/app/pets-adoption-adopt-dog-cat/id1550927834
 
 Web link
 https://www.petsadoption.app
